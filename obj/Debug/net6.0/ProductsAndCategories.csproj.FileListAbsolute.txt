@@ -1,0 +1,70 @@
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\appsettings.json
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\ProductsAndCategories.staticwebassets.runtime.json
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\ProductsAndCategories.exe
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\ProductsAndCategories.deps.json
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\ProductsAndCategories.runtimeconfig.json
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\ProductsAndCategories.dll
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\ProductsAndCategories.pdb
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.csproj.AssemblyReference.cache
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.AssemblyInfoInputs.cache
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.AssemblyInfo.cs
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.csproj.CoreCompileInputs.cache
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.RazorAssemblyInfo.cache
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.RazorAssemblyInfo.cs
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\scopedcss\bundle\ProductsAndCategories.styles.css
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\scopedcss\projectbundle\ProductsAndCategories.bundle.scp.css
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.csproj.CopyComplete
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.dll
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\refint\ProductsAndCategories.dll
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.pdb
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.genruntimeconfig.cache
+C:\Users\Bledar Puka\Desktop\CodingDojoC#\Web Fundamentals\C#\ProductsAndCategories\obj\Debug\net6.0\ref\ProductsAndCategories.dll
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\appsettings.json
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\ProductsAndCategories.staticwebassets.runtime.json
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\ProductsAndCategories.exe
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\ProductsAndCategories.deps.json
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\ProductsAndCategories.runtimeconfig.json
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\ProductsAndCategories.dll
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\ProductsAndCategories.pdb
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\Humanizer.dll
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.AssemblyInfo.cs
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.RazorAssemblyInfo.cache
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.RazorAssemblyInfo.cs
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\scopedcss\bundle\ProductsAndCategories.styles.css
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\scopedcss\projectbundle\ProductsAndCategories.bundle.scp.css
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.csproj.CopyComplete
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.dll
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\refint\ProductsAndCategories.dll
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.pdb
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\ProductsAndCategories.genruntimeconfig.cache
+C:\Users\root\Desktop\Coding Dojo\C#\ProductsAndCategories\obj\Debug\net6.0\ref\ProductsAndCategories.dll

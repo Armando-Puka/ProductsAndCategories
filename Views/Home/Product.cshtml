@@ -1,0 +1,31 @@
+@model Product
+
+<h1 class="text-center">@Model.ProductName</h1>
+
+<div class="row">
+    <div class="col-6">
+        <h3>Categories</h3>
+        @foreach (var category in ViewBag.ExistingCategories) {
+            <p>@category.CategoryName</p>
+        }
+    </div>
+
+    <div class="col-6">
+        <h3>Add Category</h3>
+
+        <form asp-action="AddCategory" method="post">
+            <div class="form-group">
+                <label for="categoryId">Select Category:</label>
+                <select name="categoryId" class="form-control mt-3 border border-dark border-2">
+                    <option value="" selected>Choose a category</option>
+                    @foreach(var product in ViewBag.CategoriesToInclude)
+                    {
+                        <option value="@product.CategoryId">@product.CategoryName</option>
+                    }
+                </select>
+            </div>
+            <input type="hidden" name="productId" value="@Model.ProductId" />
+            <input type="submit" value="Add" class="btn btn-outline-dark border-2 rounded mt-3">
+        </form>
+    </div>
+</div>

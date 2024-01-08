@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Product
+
+<div class="row mt-4 justify-content-between">
+    <form class="col-5" asp-action="CreateProduct" method="post">
+        <h2 class="text-center">New Product</h2>
+        <div class="form-group mb-4">
+            <label asp-for="ProductName">Name:</label>
+            <input asp-for="ProductName" class="form-control mt-3 border border-dark border-2" id="ProductName">
+            <span asp-validation-for="ProductName" class="text-danger"></span>
+        </div>
+        <div class="form-group mb-4">
+            <label asp-for="ProductDescription">Description:</label>
+            <input asp-for="ProductDescription" class="form-control mt-3 border border-dark border-2" id="ProductDescription">
+            <span asp-validation-for="ProductDescription" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Price">Price:</label>
+            <input asp-for="Price" class="form-control mt-3 border border-dark border-2" id="Price">
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+        
+        <input type="submit" value="Create" class="btn btn-outline-dark border-2 rounded mt-4">
+    </form>
+    <div class="col-6 border-l">
+        <h2 class="text-center">All Products</h2>
+        <div class="m-4 ">
+            @foreach(var item in ViewBag.Products){
+                <a class="h4 mt-3 d-block" asp-action="product" asp-route-id="@item.ProductId">@item.ProductName</a>
+            }
+        </div>
+    </div>
+</div>

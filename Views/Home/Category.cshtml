@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Categories";
+}
+
+@model Category
+
+<div class="row mt-4 justify-content-between ">
+    <form class="col-5  " asp-action="CreateCategory" method="post">
+        <h2 class="text-center">New Category</h2>
+        <div class="form-group mb-4">
+            <label asp-for="CategoryName">Name:</label>
+            <input asp-for="CategoryName" class="form-control mt-3 border border-dark border-2" id="ProductName">
+            <span asp-validation-for="CategoryName" class="text-danger"></span>
+        </div>
+       
+        <input type="submit" value="Create" class="btn btn-outline-dark border-2 rounded">
+    </form>
+    
+    <div class="col-6 border-l">
+        <h2 class="text-center">All Categories</h2>
+        <div class="m-4 ">
+            @foreach(var item in ViewBag.Category){
+                <a class="h4 mt-3 d-block" asp-action="categories" asp-route-id="@item.CategoryId">@item.CategoryName</a>
+            }
+        </div>
+    </div>
+</div>
